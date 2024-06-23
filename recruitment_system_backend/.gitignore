@@ -1,0 +1,6 @@
+# Python
+**/__pycache__/
+
+# pipeline
+*.log
+nohup.out
